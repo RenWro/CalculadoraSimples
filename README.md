@@ -10,5 +10,4 @@
 
 <p>Com prompt </p>
 
-![image](https://github.com/RenWro/CalculadoraSimples/assets/134458911/9cca1f04-514f-4018-b13b-ee7d61d11026)
-
+![image](https://github.com/RenWro/CalculadoraSimples/assets/134458911/305297f3-97e5-48ad-8907-fde016685d3f)
